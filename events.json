@@ -1,0 +1,17 @@
+[
+  {"date": "2026-05-04", "type": "release", "text": "CHOOM (3rd mini album)"},
+  {"date": "2026-06-08", "type": "release", "text": "SUGAR HONEY ICE TEA (digital single)"},
+  {"date": "2026-10-23", "type": "release", "text": "DESERVE (digital single)"},
+  {"type": "note", "text": "NEXT-ALBUM early 2027, date TBA (YG)"},
+
+  {"date": "2026-11-07", "type": "concert", "text": "Bangkok IMPACT Arena (day 1)"},
+  {"date": "2026-11-08", "type": "concert", "text": "Bangkok IMPACT Arena (day 2)"},
+  {"date": "2026-11-14", "type": "concert", "text": "Kuala Lumpur Unifi Arena"},
+  {"date": "2026-11-21", "type": "concert", "text": "Taipei Arena (day 1)"},
+  {"date": "2026-11-22", "type": "concert", "text": "Taipei Arena (day 2)"},
+  {"date": "2026-11-28", "type": "concert", "text": "Singapore Indoor Stadium"},
+  {"date": "2026-12-08", "type": "concert", "text": "Auckland Spark Arena"},
+  {"date": "2026-12-11", "type": "concert", "text": "Melbourne Rod Laver Arena"},
+  {"date": "2026-12-13", "type": "concert", "text": "Sydney"},
+  {"date": "2027-01-09", "type": "concert", "text": "Hong Kong AsiaWorld-Arena"}
+]
