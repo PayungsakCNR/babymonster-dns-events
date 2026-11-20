@@ -15,5 +15,7 @@
   {"date": "2026-12-08", "type": "concert", "text": "Auckland Spark Arena"},
   {"date": "2026-12-11", "type": "concert", "text": "Melbourne Rod Laver Arena"},
   {"date": "2026-12-13", "type": "concert", "text": "Sydney"},
-  {"date": "2027-01-09", "type": "concert", "text": "Hong Kong AsiaWorld-Arena"}
+  {"date": "2027-01-08", "type": "concert", "text": "Hong Kong AsiaWorld-Arena (day 1)"},
+  {"date": "2027-01-09", "type": "concert", "text": "Hong Kong AsiaWorld-Arena (day 2)"},
+  {"date": "2027-01-10", "type": "concert", "text": "Hong Kong AsiaWorld-Arena (day 3)"}
 ]
